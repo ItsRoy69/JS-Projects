@@ -1,4 +1,4 @@
-## Form Validator
+## Form Validtion
 
 Simple client side form validation. Check required, length, email and password match
 - The App is live Here - [Click Here](https://js-projects-a2gn6m1bv-itsroy69.vercel.app/)
