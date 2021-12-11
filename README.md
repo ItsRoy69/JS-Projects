@@ -6,3 +6,4 @@ This is a repository that'll store many basic vanilla javascript projects.
 
 1. Form Validation : https://js-projects-r7n53n1qr-itsroy69.vercel.app/
 2. Movie Seat Picker : https://movie-seat-picker-odoaw5o5v-itsroy69.vercel.app/
+3. Rate CAlculator : https://rate-calculate-9nmbszi50-itsroy69.vercel.app/
